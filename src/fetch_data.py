@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-API_KEY = "AIzaSyCMyTFqjiSb9jxbZsqKq4wwi-3RuaW0W1o"
+API_KEY = "YOUR_API_KEY"
 
 BASE_URL = "https://www.googleapis.com/youtube/v3/"
 
