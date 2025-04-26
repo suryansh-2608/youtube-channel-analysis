@@ -82,7 +82,12 @@ A full end-to-end Data Science project where we:
 
 | Dashboard Home | Top 10 Videos |
 | :------------- | :------------ |
-| ![Dashboard Home](output/dashboard_home.png) | ![Top Videos](output/top_videos.png) |
+| ![Dashboard Home](output/dashboard_home.png) | ![Top Videos](output/top_10_most_viewed.png) |
+
+---
+
+## 📡 Dashboard:
+You can check the dashboard [here](https://yt-analysis.streamlit.app/)!
 
 ---
 
