@@ -80,9 +80,13 @@ A full end-to-end Data Science project where we:
 
 ## 📸 Sneak Peek:
 
-| Dashboard Home | Top 10 Videos |
-| :------------- | :------------ |
-| ![Dashboard Home](output/dashboard_home.png) | ![Top Videos](output/top_10_most_viewed.png) |
+| Dashboard Home |
+| :------------- | 
+| ![Dashboard Home](output/dashboard_home.png) | 
+
+ | Top 10 Videos |
+ | :------------ |
+ | ![Top Videos](output/top_10_most_viewed.png) |
 
 ---
 
