@@ -18,17 +18,17 @@ A full end-to-end Data Science project where we:
 ---
 
 ## 📦 Project Structure:
- -/data
-   -channel_stats.csv 
-   -video_data.csv 
- -/output 
-   -top_10_most_viewed.png 
-   -monthly_upload_trend.png 
-   -top_10_engagement.png 
- -/src 
-   -api_extraction.py 
-   -eda_analysis.py --
-   -dashboard.py
+ - /data
+   - channel_stats.csv 
+   - video_data.csv 
+ - /output 
+   - top_10_most_viewed.png 
+   - monthly_upload_trend.png 
+   - top_10_engagement.png 
+ - /src 
+   - api_extraction.py 
+   - eda_analysis.py
+   - dashboard.py
 
 
 ---
